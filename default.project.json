@@ -1,0 +1,23 @@
+{
+  "name": "Imluatable",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "imluatable": {
+        "$path": "src",
+        "t": {
+          "$path": "t"
+        }
+      }
+    },
+
+    "HttpService": {
+      "$className": "HttpService",
+      "$properties": {
+        "HttpEnabled": true
+      }
+    }
+  }
+}
